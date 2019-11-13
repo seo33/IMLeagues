@@ -2,6 +2,7 @@
 
 My name is Jin Seo, a Purdue University Senior majoring in Professional Writing. On this page, Purdue University students will be able to find an instructional document of logging in and using the features of [IMLeagues](https://imleagues.com) website. 
 ![Purdue University](https://recsports.vcu.edu/media/student-affairs/recreational-sports/images/intramural-sports-main/imbanner2.jpg)
+
 ![IM Leagues logo](https://www.sandiego.edu/campusrecreation/images/IMLeagues%20Logo.png)
 ## IM Leagues
 > To keep the body in good health is a duty... otherwise we shall not be able to keep our mind strong and clear.
