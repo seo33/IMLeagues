@@ -25,3 +25,5 @@ The best option here would be to do a **brief survey**, which is answering one q
 ![Ads on page](https://imleague.files.wordpress.com/2019/10/screen-shot-2019-10-08-at-2.27.44-pm.png?w=2048)
 
 ### You have now successfully logged into the Purdue IM Leagues website. 
+
+Click [here](https://github.com/seo33/IMLeagues/blob/master/Features.on.IMLeagues)
