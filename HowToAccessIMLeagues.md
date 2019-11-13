@@ -16,6 +16,12 @@ On this page, you will learn about logging into IM Leagues website as a Purdue U
 ![Last Step](https://imleague.files.wordpress.com/2019/10/screen-shot-2019-10-08-at-2.06.21-pm.png)
 
 If you have Adblock running on your browser, the IM Leagues page will not be accessible unless you decide to do the following,
-1. **Turn off Adblock 1
-2. **Take a brief survey 2
-3. **Pay
+1. **Turn off Adblock**
+2. **Take a brief survey**
+3. **Pay**
+![Page Not Accessible with Adblock](https://imleague.files.wordpress.com/2019/10/screen-shot-2019-10-08-at-2.18.36-pm.png)
+
+The best option here would be to do a **brief survey**, which is answering one question. This would lead you to the IM Leagues page without any ads. However, “Take a brief survey” option is **not always** available. Since IM Leagues page is known for their notorious amounts of ads like in figure 6, just be prepared to navigate the page with ads following you everywhere like the image below.
+![Ads on page](https://imleague.files.wordpress.com/2019/10/screen-shot-2019-10-08-at-2.27.44-pm.png?w=2048)
+
+### You have now successfully logged into the Purdue IM Leagues website. 
