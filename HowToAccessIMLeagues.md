@@ -32,4 +32,4 @@ The best option here would be to do a **brief survey**, which is answering one q
 
 ### You have now successfully logged into the Purdue IM Leagues website. 
 
-Click [here](https://github.com/seo33/IMLeagues/blob/master/Features.on.IMLeagues) to learn about the features of IM Leagues website.
+Click [here](https://github.com/seo33/IMLeagues/blob/master/Features.on.IMLeagues.md) to learn about the features of IM Leagues website.
