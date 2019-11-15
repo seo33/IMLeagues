@@ -12,4 +12,4 @@ IM League is used by more than 1000 colleges in America including Purdue Univers
 
 Click [here](https://github.com/seo33/IMLeagues/blob/master/HowToAccessIMLeagues.md) to learn about accessing IM Leagues website.
 
-Click [here](https://github.com/seo33/IMLeagues/blob/master/Features.on.IMLeagues) to learn about the features in IM Leagues website.
+Click [here](https://github.com/seo33/IMLeagues/blob/master/Features.on.IMLeagues.md) to learn about the features in IM Leagues website.
