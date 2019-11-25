@@ -1,3 +1,6 @@
+[Features on IM Leagues](Features.on.IMLeagues.md) 
+
+[Homepage](index.md)
 # How to Access IM Leagues Website
 
 On this page, you will learn about logging into IM Leagues website as a Purdue University student. Please be advised that **Google Chrome** and **Firefox** are the only possible browsers accepted by IMLeagues.
@@ -32,6 +35,4 @@ The best option here would be to do a **brief survey**, which is answering one q
 
 ### You have now successfully logged into the Purdue IM Leagues website. 
 
-Click [here](Features.on.IMLeagues.md) to learn about the features of IM Leagues website.
 
-Click [here](index.md) to go to my homepage.
