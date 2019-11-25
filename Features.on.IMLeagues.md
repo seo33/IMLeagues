@@ -1,3 +1,6 @@
+[How to Access IM Leagues](HowToAccessIMLeagues.md)
+
+[Homepage](index.md) 
 # Features on IM Leagues Website
 
 On this page, you will be able to learn about the features on the IM Leagues website that you can utilize to check your next opponents' stats, game schedule, group messages, and more.
@@ -86,6 +89,4 @@ If you look at the left side of your team page, you will be able to see your tim
 ![League Table](https://imleague.files.wordpress.com/2019/10/screen-shot-2019-10-08-at-4.06.03-pm.png?w=2048)
 *Figure 20: PKFC Black Team Page (League Table)*
 
-[How to Access IM Leagues](HowToAccessIMLeagues.md)
 
-[Homepage](index.md) 
