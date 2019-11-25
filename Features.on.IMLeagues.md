@@ -86,6 +86,6 @@ If you look at the left side of your team page, you will be able to see your tim
 ![League Table](https://imleague.files.wordpress.com/2019/10/screen-shot-2019-10-08-at-4.06.03-pm.png?w=2048)
 *Figure 20: PKFC Black Team Page (League Table)*
 
-Click [here](HowToAccessIMLeagues.md) to learn about accessing IM Leagues website.
+[How to Access IM Leagues](HowToAccessIMLeagues.md)
 
-Click [here](index.md) to go to my homepage.
+[Homepage](index.md) 
