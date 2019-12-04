@@ -8,5 +8,5 @@
 >
 >-Buddha
 
-IM League is used by more than 1000 colleges in America including Purdue University. Students who partake in Purdue’s intramural activities know what IM Leagues is, but not many are informed about how the website can be accessed and used. Through my extensive user-research, I have created a tutorial for Purdue University students to access and utilize the features on the website.
+IM League is used by more than 1000 colleges in America including Purdue University. Students who partake in Purdue’s intramural activities know what IM Leagues is, but not many are informed about how the website can be accessed and used. Through my extensive user-research, I have created a tutorial for Purdue University students to access and utilize the features on the website. Please keep in mind that you will have to be a Purdue University student or faculty in order to login through your Purdue account.
 
