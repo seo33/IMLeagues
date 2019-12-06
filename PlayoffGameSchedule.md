@@ -30,4 +30,4 @@ Once you are directed to your next game page, you will be able to RSVP to the ga
 
 ![Comparison Stats](https://imleague.files.wordpress.com/2019/10/screen-shot-2019-10-08-at-3.51.57-pm.png?w=2046)
 *Figure 18: Playoff Game Next Opponent Page (Comparison Stats)*
-#
+
