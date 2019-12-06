@@ -14,7 +14,7 @@ Now that you are on the Purdue IM Leagues website, I will introduce you to the f
 * League Table
 #
 
-### Team Accouncements
+### Team Announcements
 If you would like to communicate with your teammates on this page, you will have the option to add announcements or message through “teamchat”. Any member of your team can add announcements and start a team chat.
 
 ![PKFC Black Team Page](https://imleague.files.wordpress.com/2019/10/screen-shot-2019-10-08-at-3.17.30-pm.png)
