@@ -12,7 +12,7 @@ Now that you are on the Purdue IM Leagues website, I will introduce you to the f
 * [Playoff Game Schedule](PlayoffGameSchedule.md)
 * [Player Stats](PlayerStats.md)
 * [League Table](LeagueTable.md)
-#
+
 
 ## Regular Season Schedule
 On this section, you will be able to see the fixtures for your league table game. For Purdue’s soccer intramural league, every team will have the chance to play 3 games to determine the slots for the playoff bracket. You may click on each game to see your opponent’s stats before the game. If the game is already played, you may access the page again to see your team’s and individual performances.
