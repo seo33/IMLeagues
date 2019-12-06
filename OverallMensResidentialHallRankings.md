@@ -8,13 +8,13 @@ Now that you are on the Purdue IM Leagues website, I will introduce you to the f
 ![Homepage](https://imleague.files.wordpress.com/2019/10/screen-shot-2019-10-08-at-2.44.31-pm.png)
 *Figure 7: Homepage*
 
-* Overall Men’s Residential Hall Rankings
-* Team Announcements
-* Next Game
-* Regular Season Schedule
-* Playoff Game Schedule
-* Player Stats
-* League Table
+* [Overall Men’s Residential Hall Rankings](OverallMensResidentialHallRankings.md)
+* [Team Announcements](TeamAnnouncements.md)
+* [Next Game](NextGame.md)
+* [Regular Season Schedule](RegularSeasonSchedule.md)
+* [Playoff Game Schedule](PlayoffGameSchedule.md)
+* [Player Stats](PlayerStats.md)
+* [League Table](LeagueTable.md)
 #
 ### Overall Men's Residential Hall Rankings
 To compare your team with the rest of the teams in your league, you may click on “Overall” under “Points Per Game”, “Points Against”, or “Streak”. To compare individual stats, click on “Overall” under “Top Player”.
