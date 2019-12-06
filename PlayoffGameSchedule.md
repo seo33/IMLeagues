@@ -12,7 +12,7 @@ Now that you are on the Purdue IM Leagues website, I will introduce you to the f
 * [Playoff Game Schedule](PlayoffGameSchedule.md)
 * [Player Stats](PlayerStats.md)
 * [League Table](LeagueTable.md)
-#
+
 
 ## Playoff Game Schedule
 Since this tutorial is being produced during my playoff game, you will be able to see my team’s first playoff game. You may click on anywhere in the red rectangle from figure 15, which would lead you to the game information.
