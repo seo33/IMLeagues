@@ -13,7 +13,7 @@ Now that you are on the Purdue IM Leagues website, I will introduce you to the f
 * [Player Stats](PlayerStats.md)
 * [League Table](LeagueTable.md)
 #
-### Overall Men's Residential Hall Rankings
+## Overall Men's Residential Hall Rankings
 To compare your team with the rest of the teams in your league, you may click on “Overall” under “Points Per Game”, “Points Against”, or “Streak”. To compare individual stats, click on “Overall” under “Top Player”.
 
 ![PKFC Black Team Page](https://imleague.files.wordpress.com/2019/10/screen-shot-2019-10-08-at-2.48.34-pm.png)
