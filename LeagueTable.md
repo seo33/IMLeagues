@@ -14,7 +14,7 @@ Now that you are on the Purdue IM Leagues website, I will introduce you to the f
 * [League Table](LeagueTable.md)
 #
 
-### League Table
+## League Table
 If you look at the left side of your team page, you will be able to see your time slot’s league table. This league table consists of teams from your three mandatory league games. You may click on “Full Standings” to look at your table’s detailed stats or other time slot’s league tables.
 
 ![League Table](https://imleague.files.wordpress.com/2019/10/screen-shot-2019-10-08-at-4.06.03-pm.png?w=2048)
