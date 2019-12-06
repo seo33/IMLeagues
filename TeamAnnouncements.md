@@ -5,13 +5,13 @@
 
 Now that you are on the Purdue IM Leagues website, I will introduce you to the features on this website. From looking at your game schedule to identifying individual stats of your next opponent, there are many interactive features that you and your team may use to update your stats and analyze your opponents to win tournaments.
 
-* Overall Men’s Residential Hall Rankings
-* Team Announcements
-* Next Game
-* Regular Season Schedule
-* Playoff Game Schedule
-* Player Stats
-* League Table
+* [Overall Men’s Residential Hall Rankings](OverallMensResidentialHallRankings.md)
+* [Team Announcements](TeamAnnouncements.md)
+* [Next Game](NextGame.md)
+* [Regular Season Schedule](RegularSeasonSchedule.md)
+* [Playoff Game Schedule](PlayoffGameSchedule.md)
+* [Player Stats](PlayerStats.md)
+* [League Table](LeagueTable.md)
 #
 
 ### Team Announcements
