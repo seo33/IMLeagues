@@ -14,7 +14,7 @@ On this page, you will learn about logging into IM Leagues website as a Purdue U
 ![Purdue IM Leagues Website](https://imleague.files.wordpress.com/2019/10/screen-shot-2019-10-08-at-1.46.20-pm.png)
 *Figure 2: Purdue IM Leagues Website*
 
-3. Clicking on “LOGIN” will prompt you to the “Login Options” page. Make sure to click on BOILERKEY for two-factor authentication.
+3. Clicking on “LOGIN” will prompt you to the “Login Options” page. Make sure to click on [BOILERKEY](https://www.purdue.edu/apps/account/BoilerKey/) for two-factor authentication.
 ![Login Options](https://imleague.files.wordpress.com/2019/10/screen-shot-2019-10-08-at-1.56.37-pm.png)
 *Figure 3: Login Options*
 
@@ -23,7 +23,7 @@ On this page, you will learn about logging into IM Leagues website as a Purdue U
 *Figure 4: Last Step Before Being Directed to the Website*
 
 If you have Adblock running on your browser, the IM Leagues page will not be accessible unless you decide to do the following,
-1. **Turn off Adblock**
+1. **[Turn off Adblock](https://help.getadblock.com/support/solutions/articles/6000163989-how-do-i-pause-or-disable-adblock-)**
 2. **Take a brief survey**
 3. **Pay**
 ![Page Not Accessible with Adblock](https://imleague.files.wordpress.com/2019/10/screen-shot-2019-10-08-at-2.18.36-pm.png)
