@@ -19,4 +19,4 @@ If you would like to communicate with your teammates on this page, you will have
 
 ![PKFC Black Team Page](https://imleague.files.wordpress.com/2019/10/screen-shot-2019-10-08-at-3.17.30-pm.png)
 *Figure 11: PKFC Black Team Page (Announcements)*
-#
+
