@@ -12,7 +12,7 @@ Now that you are on the Purdue IM Leagues website, I will introduce you to the f
 * [Playoff Game Schedule](PlayoffGameSchedule.md)
 * [Player Stats](PlayerStats.md)
 * [League Table](LeagueTable.md)
-#
+
 
 ## Next Game
 To look at your next game, you may click on “Game Page” button that would direct you to next page, including your opponent’s team and individual stats. However, keep in mind that if your next game is for the playoff bracket, you will not be able to access through the “Game Page” button since this team was not from your league.
