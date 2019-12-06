@@ -12,7 +12,7 @@ Now that you are on the Purdue IM Leagues website, I will introduce you to the f
 * [Playoff Game Schedule](PlayoffGameSchedule.md)
 * [Player Stats](PlayerStats.md)
 * [League Table](LeagueTable.md)
-#
+
 
 ## Player Stats
 If you scroll down to the bottom of your team page, you will be able to see your teammates’ individual stats such as Games Played, MVP, Goals Per Game, Total Goals, Assists Per Game, and Total Assists
