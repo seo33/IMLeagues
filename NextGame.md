@@ -22,4 +22,4 @@ To look at your next game, you may click on “Game Page” button that would di
 
 ![Next Game Page Not Available](https://imleague.files.wordpress.com/2019/10/screen-shot-2019-10-08-at-3.29.44-pm.png)
 *Figure 13: Next Game Page Not Available*
-#
+
