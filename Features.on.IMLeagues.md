@@ -19,5 +19,4 @@ Now that you are on the Purdue IM Leagues website, I will introduce you to the f
 * [Playoff Game Schedule](PlayoffGameSchedule.md)
 * [Player Stats](PlayerStats.md)
 * [League Table](LeagueTable.md)
-#
 
