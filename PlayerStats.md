@@ -14,7 +14,7 @@ Now that you are on the Purdue IM Leagues website, I will introduce you to the f
 * [League Table](LeagueTable.md)
 #
 
-### Player Stats
+## Player Stats
 If you scroll down to the bottom of your team page, you will be able to see your teammates’ individual stats such as Games Played, MVP, Goals Per Game, Total Goals, Assists Per Game, and Total Assists
 
 ![Players Stats](https://imleague.files.wordpress.com/2019/10/screen-shot-2019-10-08-at-3.58.02-pm.png)
