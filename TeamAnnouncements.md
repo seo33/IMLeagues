@@ -12,7 +12,7 @@ Now that you are on the Purdue IM Leagues website, I will introduce you to the f
 * [Playoff Game Schedule](PlayoffGameSchedule.md)
 * [Player Stats](PlayerStats.md)
 * [League Table](LeagueTable.md)
-#
+
 
 ## Team Announcements
 If you would like to communicate with your teammates on this page, you will have the option to add announcements or message through “teamchat”. Any member of your team can add announcements and start a team chat.
