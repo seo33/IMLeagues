@@ -19,4 +19,4 @@ On this section, you will be able to see the fixtures for your league table game
 
 ![Playoff Game Schedule](https://imleague.files.wordpress.com/2019/10/screen-shot-2019-10-08-at-3.35.27-pm-1.png)
 *Figure 14: PKFC Black Team Page (Regular Season Schedule)*
-#
+
