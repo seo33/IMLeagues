@@ -24,4 +24,4 @@ To compare your team with the rest of the teams in your league, you may click on
 
 ![Residential Hall Individual Stats Rankings](https://imleague.files.wordpress.com/2019/10/screen-shot-2019-10-08-at-3.13.29-pm.png)
 *Figure 10: Residential Hall Individual Stats Rankings*
-#
+
